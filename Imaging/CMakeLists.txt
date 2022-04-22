@@ -11,7 +11,7 @@ add_executable(${PROJECT_NAME}
         imaging.cpp
         vector.h
         matrix.h
-        )
+        ../heyy.cpp)
 
 target_include_directories(${PROJECT_NAME} PRIVATE ${EASY3D_INCLUDE_DIR})
 
