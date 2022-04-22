@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/Imaging.dir/main.cpp.o CMakeFiles/Imaging.dir/viewer.cpp.o CMakeFiles/Imaging.dir/imaging.cpp.o -o Imaging  -leasy3d_core -leasy3d_viewer -leasy3d_optimizer -l3rd_cminpack 
